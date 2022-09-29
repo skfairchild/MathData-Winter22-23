@@ -34,7 +34,7 @@ We then proceed with the following four themes commonly seen in data science
 
 
 ## Course Information 
-- From 4. October 2022 through 1. February 2023
+- From 11. October 2022 through 1. February 2023
 - Tuesdays 11:45-12:45 (Lecture)
 - Wednesdays 15:15 - 16:45 (Seminar)
 - SG 2-14
