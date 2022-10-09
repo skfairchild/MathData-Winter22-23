@@ -1,0 +1,9 @@
+[deps]
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+Flux = "587475ba-b771-5e3f-ad9e-33799f191a9c"
+ImageCore = "a09fc81d-aa75-5fe9-8630-4744c3626534"
+Images = "916415d5-f1e6-5110-898d-aaa5f9f070e0"
+JuMP = "4076af6c-e467-56ae-b986-b466b2749572"
+MLDatasets = "eb30cadb-4394-5ae3-aed4-317e484a6458"
+NLopt = "76087f3c-5699-56af-9a33-bf431cd00edd"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"

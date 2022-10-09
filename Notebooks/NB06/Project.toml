@@ -1,0 +1,7 @@
+[deps]
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
+ImageCore = "a09fc81d-aa75-5fe9-8630-4744c3626534"
+Images = "916415d5-f1e6-5110-898d-aaa5f9f070e0"
+MLDatasets = "eb30cadb-4394-5ae3-aed4-317e484a6458"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
