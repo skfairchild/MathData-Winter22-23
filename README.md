@@ -96,9 +96,9 @@ In order to use the notebooks:
 * Download the notebooks (Click on the green `Code` Button or download as Zip File or use a Git Client such as [Github Desktop](https://desktop.github.com) oder [Sublime](https://www.sublimemerge.com)).
 * Download the newest version of Juila [here](https://julialang.org/downloads/).
 * Start Juila.
-* In Julia change `]` in the package manager.
+* Enter the package manager by putting in `]` in the package manager.
 * `add IJulia`
-* Leave the package manager with a Backslash '\'.
+* Leave the package manager with a backspace.
 * `using IJulia` 
 * `notebook()` 
 
