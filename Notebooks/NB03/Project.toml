@@ -8,5 +8,10 @@ Graphs = "86223c79-3864-5bf0-83f7-82e725a168b6"
 LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
 Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
 SparseArrays = "2f01184e-e22b-5df5-ae63-d93ebab69eaf"
+TextParse = "e0df1984-e451-5cb5-8b61-797a481e67e3"
 VegaDatasets = "0ae4a718-28b7-58ec-9efb-cded64d6d5b4"
 VegaLite = "112f6efa-9a02-5b7d-90c0-432ed331239a"
+WeakRefStrings = "ea10d353-3f73-51f8-a26c-33c1cb351aa5"
+
+[compat]
+julia = "1.6"

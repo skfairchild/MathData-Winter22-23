@@ -2,7 +2,7 @@
 
 julia_version = "1.8.2"
 manifest_format = "2.0"
-project_hash = "e6b08323a1d4277af06498ef5d5b8d12fab23d69"
+project_hash = "3143d15cc58f4992585aba3f71325c6f400d8292"
 
 [[deps.Adapt]]
 deps = ["LinearAlgebra"]
@@ -905,9 +905,9 @@ version = "2.3.0"
 
 [[deps.VegaDatasets]]
 deps = ["DataStructures", "DataValues", "FilePaths", "IterableTables", "IteratorInterfaceExtensions", "JSON", "TableShowUtils", "TableTraits", "TableTraitsUtils", "TextParse"]
-git-tree-sha1 = "0b3be3e8948ab5e51530196a9dc33d83e337248e"
+git-tree-sha1 = "c997c7217f37205c5795de8c797f8f8531890f1d"
 uuid = "0ae4a718-28b7-58ec-9efb-cded64d6d5b4"
-version = "2.0.0"
+version = "2.1.1"
 
 [[deps.VegaLite]]
 deps = ["Base64", "DataStructures", "DataValues", "Dates", "FileIO", "FilePaths", "IteratorInterfaceExtensions", "JSON", "MacroTools", "NodeJS", "Pkg", "REPL", "Random", "TableTraits", "TableTraitsUtils", "URIParser", "Vega"]
