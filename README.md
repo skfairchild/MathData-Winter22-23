@@ -40,7 +40,7 @@ We then proceed with the following four themes commonly seen in data science
 - SG 2-14
 
 - Contact: samantha.fairchild(at)mis.mpg.de
-- Office hours: Wednesdays after class, and by email.
+- Office hours: Tuesdays and Wednesdays after class, and by email.
 
 Grading scheme (subject to change pending class composition):
 - Homework (40%): assigned every other week, proofs and examples
