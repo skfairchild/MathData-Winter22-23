@@ -54,7 +54,7 @@ Grading scheme (subject to change pending class composition):
 |------|--------|
 |  11.10    |  Orthogonal projections and the Pseudo-Inverse |
 |12.10| No class (Immatrikulationsfeier)|
-|  18.10    |   (SM) Probability theory introduction: Random variables and Bayes' Theorem |
+|  18.10    |   (Katerina Papagiannouli) Probability theory introduction: Random variables and Bayes' Theorem |
 |  19.10    |   (Simone  Steinbruechel) (uniqueness of) singular value decompositions |
 |25.10| Expected Value and Variance, the normal distribution|
 |26.10| Network Analysis: the Laplace matrix|
