@@ -43,9 +43,9 @@ We then proceed with the following four themes commonly seen in data science
 - Office hours: Tuesdays and Wednesdays after class, and by email.
 
 Grading scheme (subject to change pending class composition):
-- Homework: assigned every other week, proofs and examples
+- Homework: assigned every other week, hand in 1 problem for grading.
 - Project: Due 18.01 in class: Pick a data science topic and learn about the math behind it. Must include 1 proof and 1 example (~2 pages)
-- Exam?: ??, written theory exam covering entire course, mainly computations and examples
+- Exam: written theory exam covering entire course, mainly computations and examples.
 
 ---
 ## Course Schedule
