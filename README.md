@@ -67,9 +67,9 @@ Grading scheme (subject to change pending class composition):
 |22.11|(SM) Machine Learning: Data, models, and learning |
 |23.11|(SM) Linear regression, least squares, MLE|
 |29.11| Non-linear regression, MAP and Bayesian approach |
-|30.11| Nueral networks|
+|30.11| Nueral networks (Notebook 4)|
 |6.12|Support vector machines (primal)|
-|7.12| Dual SVMs and Kernels|
+|7.12| Dual SVMs and Kernels (Notebook 5)|
 |13.12|Principal component analysis (PCA)|
 |14.12| PCA and SVD, PCA with Gassian prior|
 |20.12| Review, introduce project, finish lectures if behind|
