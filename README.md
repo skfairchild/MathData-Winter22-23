@@ -58,28 +58,28 @@ Grading scheme (subject to change pending class composition):
 |  19.10    |   (Simone  Steinbruechel) (uniqueness of) singular value decompositions |
 |25.10| Expected Value and Variance, the normal distribution|
 |26.10| Network Analysis: the Laplace matrix|
-|01.11| Spectrum of a graph, and the relationship to structure of a graph|
+|01.11| Spectrum of a graph, and the relationship to structure of a graph (HW 1 due)|
 |02.11|(SM) Eigenvectors of the Laplace matrix, Notebook 2 Example|
 |08.11|(SM) Diameter of a graph, spanning trees, and definition of a Markov process|
 |09.11|(SM) Transition matrices and stationary distributions|
 |15.11| (Katerina Papagiannouli) Existence and uniqueness of stationary distributions, Metropolis--Hastings algorithm |
 |16.11| No class (Buß- und Bettag)|
-|22.11|(SM) Machine Learning: Data, models, and learning |
+|22.11|(SM) Machine Learning: Data, models, and learning (HW 2 due) |
 |23.11|(SM) Linear regression, least squares, MLE|
 |29.11| Non-linear regression, MAP and Bayesian approach (Notebook 4)|
 |30.11| Nueral networks |
 |6.12|Support vector machines (primal)|
-|7.12| Dual SVMs and Kernels (Notebook 5)|
+|7.12| Dual SVMs and Kernels (Notebook 5, HW 3 due)|
 |13.12|Principal component analysis (PCA)|
 |14.12| PCA and SVD, PCA with Gassian prior|
-|20.12| Review, introduce project, finish lectures if behind|
+|20.12| Review, introduce project, finish lectures if behind (HW 4 due)|
 |21.12-03.01|Winter Break|
 |4.01| Topological data analysis: Simplicies|
 |10.01| Simplicial complexes, Čech and Vietoris-Rips complex|
 |11.01| Comparing Čech and Vietoris-Rips complex, homology of planar complexes|
 |17.01| Homology, Betti numbers, Euler characteristic|
 |18.01| Persistent homology|
-|24.01| Matrices of low rank|
+|24.01| Matrices of low rank (HW 5 due)|
 |25.01| Tensors|
 |31.01| Review|
 |1.02|Last Day Class, exam?|
