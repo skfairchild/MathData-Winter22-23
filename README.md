@@ -70,9 +70,9 @@ Grading scheme (subject to change pending class composition):
 |30.11| Nueral networks |
 |6.12|Support vector machines (primal)|
 |7.12| Dual SVMs and Kernels (Notebook 5, HW 3 due)|
-|13.12|Principal component analysis (PCA)|
-|14.12| PCA and SVD, PCA with Gassian prior|
-|20.12| Review, introduce project, finish lectures if behind (HW 4 due)|
+|13.12| Deriving the Dual SVM |
+|14.12| Principal component analysis (PCA)|
+|20.12| PCA and SVD, PCA with Gaussian prior (HW 4 due)|
 |21.12-03.01|Winter Break|
 |4.01| Topological data analysis: Simplicies|
 |10.01| Simplicial complexes, Čech and Vietoris-Rips complex|
