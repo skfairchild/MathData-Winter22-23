@@ -79,7 +79,7 @@ Grading scheme (subject to change pending class composition):
 |11.01| Comparing Čech and Vietoris-Rips complex, homology of planar complexes|
 |17.01| Homology, Betti numbers, Euler characteristic|
 |18.01| Persistent homology|
-|24.01| Review topics: Pseudoinverse, Metropolis Hastings algorithm, Markov processes, Min-cut definitions (HW 5 due)|
+|24.01| Review topics: Pseudoinverse, Metropolis Hastings algorithm, application of Markov processes to data science, Min-cut definitions (HW 5 due)|
 |25.01| Continue Review topics|
 |31.01| Review|
 |1.02|Last Day Class, exam?|
