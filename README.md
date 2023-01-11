@@ -83,6 +83,7 @@ Grading scheme:
 |25.01| Continue Review topics|
 |31.01| Practice final exam|
 |1.02|Going through solutions to practice final exam|
+|14.02| Final exam from 11:15-12:45|
 
 
 ---
